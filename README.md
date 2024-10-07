@@ -1,6 +1,6 @@
 # Sales-Performance-Dashboard-PowerBi
 
-# Sales Performance Dashboard (Power BI)
+
 
 ## Overview
 This project is a **Sales Performance Dashboard** built using **Power BI**. It provides comprehensive insights into various key metrics such as sales performance, returns, profit margins, and state-wise transactions, visualized through maps and other interactive elements. The dashboard is designed to assist stakeholders in making data-driven decisions by offering a clear and concise view of the business performance.
