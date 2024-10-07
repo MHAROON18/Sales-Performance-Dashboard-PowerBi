@@ -28,7 +28,7 @@ This project is a **Sales Performance Dashboard** built using **Power BI**. It p
     ```bash
     git clone https://github.com//MHAROON18/Sales-Performance-Dashboard-PowerBi.git
     ```
-2. Open the `.pbix` file in **Power BI Desktop**.
+2. Open the `Reliance Sales Report.pbix` file in **Power BI Desktop**.
 3. Ensure the data sources are properly linked and refresh the dataset.
 4. Customize the dashboard filters as needed.
 
